@@ -5,8 +5,8 @@
   "SOURCE_STATION": "MJ",
   "BOARDING_STATION": null,
   "DESTINATION_STATION": "STR",
-  "TATKAL": false,
-  "PREMIUM_TATKAL": false,
+  "TATKAL": true,
+  "PREMIUM_TATKAL": true,
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
     {
